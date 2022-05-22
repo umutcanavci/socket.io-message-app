@@ -8,3 +8,5 @@
 
 3-you can start project 
 " node index.js "
+
+than open your browser and paste "localhost:3000"
